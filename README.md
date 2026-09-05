@@ -1,11 +1,6 @@
 # 12V_Off-Grid_Solar_Microgrid_50W
 <h3 align="center">A personal project originally developed in 2020</h3>
 
-![image alt]()
-
-
-![image alt]()
-
 
 Designed and assembled an independent 12V off-grid solar microgrid for domestic supply. This system is engineered for maximum efficiency by utilizing a direct-DC load circuit(PWM solar charge controller), which completely eliminates AC inversion losses and perfectly balances energy generation with the consumption of domestic fixtures.
 
@@ -33,10 +28,10 @@ The 50W panel feeds directly into the 10A PWM controller, which regulates the ch
 
 ### Power Regulation
 ![10A PWM Charge Controller](https://github.com/SOURAV11PATRA/12V_Off-GridSolar_Microgrid_50W/blob/bbab9331e610b224ec75aff32a4312f465def060/images/IMG20260508081123.jpg)
-*AmiciSmart 10A PWM Charge Controller regulating the 12V system.*
+*AmiciSmart 10A PWM Charge Controller regulating the 12V system and 40Ah Battery storage.*
 
 ### Storage & Distribution Setup
 ![Battery and Setup](https://github.com/SOURAV11PATRA/12V_Off-GridSolar_Microgrid_50W/blob/bdbe4f8d1d9ed8c256735b46629cacb9fcd65969/images/IMG20260508081103.jpg)
-*40Ah Battery storage and main distribution board.*
+*main distribution board.*
 
 
