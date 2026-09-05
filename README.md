@@ -1,5 +1,6 @@
 # 12V_Off-Grid_Solar_Microgrid_50W
 <h3 align="center">A personal project originally developed in 2020</h3>
+
 ![image alt](https://github.com/SOURAV11PATRA/12V_Off-GridSolar_Microgrid_50W/blob/55a5963d12df29266c8830c079b5a1b4b6c9ed9a/images/IMG20260508080818.jpg)
 
 
